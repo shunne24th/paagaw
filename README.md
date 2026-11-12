@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About us? Nothing yet... Here is the site: [https://sporadicgithub.github.io/paagaw/</h2>](https://shunne24th.github.io/paagaw/)
+<h2 align="left">About us? Nothing yet... Here is the site: https://shunne24th.github.io/paagaw/</h2>
 
 ###
 
